@@ -1,0 +1,22 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "A vscode mysql management extension",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaric8/vscode-mysql.git"
+  },
+  "keywords": [
+    "mysql"
+  ],
+  "author": "alairc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alaric8/vscode-mysql/issues"
+  },
+  "homepage": "https://github.com/alaric8/vscode-mysql#readme"
+}
